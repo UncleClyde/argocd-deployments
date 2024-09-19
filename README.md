@@ -1,0 +1,2 @@
+# argocd-deployments
+ArgoCD lab
